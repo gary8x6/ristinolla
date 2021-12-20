@@ -1,4 +1,4 @@
 # ristinolla
-Checkers game - pardon my finnish
+Checkers game
 
 My first game development. :)
